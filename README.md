@@ -1,9 +1,9 @@
-== PyTodoly ==
+### PyTodoly
 
 Python interface for Todo.ly for easier integration into other products.
 
 Should eventually cover all API calls.
 
-== License ==
+### License
 
 See LICENSE.txt
